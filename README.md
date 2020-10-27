@@ -24,6 +24,11 @@ In other words, GitHub has no issue with [`youtube-dl` seemingly hosted in GitHu
 git clone -n https://github.com/github/dmca.git youtube-dl && cd youtube-dl && git fetch origin 416da574ec0df3388f652e44f7fe71b1e3a4701f && git checkout FETCH_HEAD
 ```
 
+## 🔥 Microsoft GitHub: this is fine 🔥
+
+So, I guess this is fine:
+ - 
+
 ## Better alternatives
 
  - [SourceHut](https://sr.ht/) is a nice, ethical forge.
