@@ -33,6 +33,8 @@ So, I guess this is fine:
  - https://github.com/microsoft/MLOS/blob/e4b537d25a5bfdea3bb0f2910b5b404b3d4de7db/GITHUB_IS_EVIL.md
  - https://github.com/github/training-kit/blob/7fdaaf1b4deed2689669e16959625c9be9485ace/GITHUB_IS_EVIL.md
  - https://github.com/microsoft/TypeScript/blob/a8fcd50d4ccff302b8175275230b05b252d3a1b4/GITHUB_IS_EVIL.md
+ - https://github.com/microsoft/terminal/blob/9bd080ddbbfffd03925b9625ae534fe214283b11/GITHUB_IS_EVIL.md
+ - https://github.com/github/VisualStudio/blob/adb9631620d67164c429cf59b023863c7b21b423/GITHUB_IS_EVIL.md
 
 
 ## Better alternatives
@@ -42,3 +44,10 @@ More importantly, stop using Microsoft GitHub. There are many alternatives, here
  - [SourceHut](https://sr.ht/) is a nice, ethical forge.
  - [GitLab](https://gitlab.com/) is a good "batteries-included" alternative; it is self-hostable, or you can set-up an account on one of the many public instances.
  - [Gitea](https://gitea.io/en-us/) is a minimalistic self-hostable forge.
+
+## GitSnub
+
+GitSnub is here:
+ - https://fosstodon.org/@gitsnub
+ - https://github.com/gitsnub/gitsnub/
+ - repo outside of GitHub coming next
