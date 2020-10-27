@@ -24,3 +24,9 @@ git clone -n https://github.com/github/dmca.git youtube-dl && cd youtube-dl && g
 Now, *hilariously* GitHub also [decided not to fix a potential security issue related to how repository forks are kept on the back-end](https://iain.learmonth.me/blog/2019/2019w371/). This makes it possible to make it seem like an upstream repo contains content that never actually ended up in it.
 
 In other words, GitHub has no issue with [`youtube-dl` seemingly hosted in GitHub's own DMCA repository](https://github.com/github/dmca/tree/416da574ec0df3388f652e44f7fe71b1e3a4701f).
+
+## Better alternatives
+
+ - [SourceHut](https://sr.ht/) is a nice, ethical forge.
+ - [GitLab](https://gitlab.com/) is a good "batteries-included" alternative; it is self-hostable, or you can set-up an account on one of the many public instances.
+ - [Gitea](https://gitea.io/en-us/) is a minimalistic self-hostable forge.
