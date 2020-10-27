@@ -27,7 +27,13 @@ git clone -n https://github.com/github/dmca.git youtube-dl && cd youtube-dl && g
 ## 🔥 Microsoft GitHub: this is fine 🔥
 
 So, I guess this is fine:
- - 
+ - https://github.com/github/docs/blob/96bacc64dde55edbc4aa4f6e6a18f713200cd28f/GITHUB_IS_EVIL.md
+ - https://github.com/github/fetch/blob/938303e5ea92824c0cdd8ae0ba6c47ab77418d33/GITHUB_IS_EVIL.md
+ - https://github.com/microsoft/MLOS/blob/e4b537d25a5bfdea3bb0f2910b5b404b3d4de7db/GITHUB_IS_EVIL.md
+ - https://github.com/github/training-kit/blob/7fdaaf1b4deed2689669e16959625c9be9485ace/GITHUB_IS_EVIL.md
+ - https://github.com/microsoft/TypeScript/blob/a8fcd50d4ccff302b8175275230b05b252d3a1b4/GITHUB_IS_EVIL.md
+ - https://github.com/microsoft/vscode/blob/179b91033ec39fbef969281716ecf37c07184683/GITHUB_IS_EVIL.md
+
 
 ## Better alternatives
 
