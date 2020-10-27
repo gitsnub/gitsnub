@@ -51,3 +51,7 @@ GitSnub is here:
  - https://fosstodon.org/@gitsnub
  - https://github.com/gitsnub/gitsnub/
  - repo outside of GitHub coming next
+
+If you want to join the fun, you can use [`gitsnub.sh`](https://github.com/gitsnub/gitsnub/blob/main/gitsnub.sh); all you need is a GitHub account and a [Personal Token](https://github.com/settings/tokens) with `repo` and `admin:org` access.
+
+But *do not* create a GitHub just for this! You can use your time way better by going to any other forge and creating a fun project of your own.
