@@ -9,7 +9,6 @@ Microsoft GitHub (and RIAA) should have known better &mdash; not least because [
  - https://git.hackers.town/The_gibson/youtube-dl2.git
  - https://gitlab.com/nephros/youtube-dl
  - https://salsa.debian.org/debian/youtube-dl
- - https://gitee.com/mirrors/youtube-downloader
  - https://git.marcg.pizza/~marcg/youtube-dl
  - https://git.osuv.de/star/youtube-dl
  - https://github.com/TeamNewPipe/NewPipe/
