@@ -1,4 +1,4 @@
-# GitHub: taking free software down, one DMCA notice at a time
+# Microsoft GitHub: taking free software down, one DMCA notice at a time
 
 Lately Microsoft GitHub caved to RIAA and [blocked `youtube-dl`](). This is [bad for many reasons](https://freedom.press/news/riaa-github-youtube-dl-journalist-tool/), but shows why using a centralized, corporate-controled walled garden is a dangerous thing.
 
