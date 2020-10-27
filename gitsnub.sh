@@ -32,6 +32,8 @@ for d in */; do
 	cd $d/ 
 	git add ./
 	sed -i -r -e "s#url = https://github#url = https://x-access-token:$GITHUB_TOKEN@github#" .git/config
+	git config user.email "nat@github.com"
+	git config user.name "Nat Friedman"
 	git commit -m '#Hacktoberfest'
 	git push
 	COMMIT_HASH_URLS="$COMMIT_HASH_URLS

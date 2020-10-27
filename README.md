@@ -27,15 +27,14 @@ git clone -n https://github.com/github/dmca.git youtube-dl && cd youtube-dl && g
 ## 🔥 Microsoft GitHub: this is fine 🔥
 
 So, I guess this is fine:
- - https://github.com/microsoft/vscode/blob/179b91033ec39fbef969281716ecf37c07184683/GITHUB_IS_EVIL.md
- - https://github.com/github/docs/blob/96bacc64dde55edbc4aa4f6e6a18f713200cd28f/GITHUB_IS_EVIL.md
- - https://github.com/github/fetch/blob/938303e5ea92824c0cdd8ae0ba6c47ab77418d33/GITHUB_IS_EVIL.md
- - https://github.com/microsoft/MLOS/blob/e4b537d25a5bfdea3bb0f2910b5b404b3d4de7db/GITHUB_IS_EVIL.md
+ - https://github.com/github/docs/blob/4cefce485fb94541dd34c75234c59e3268084e37/GITHUB_IS_EVIL.md
+ - https://github.com/github/fetch/blob/14d33e5281cdb2367510c8246b77269f4d8da151/GITHUB_IS_EVIL.md
+ - https://github.com/microsoft/MLOS/blob/5f77da2b99c8a14cce77cbc93909494d3dd40c92/GITHUB_IS_EVIL.md
+ - https://github.com/microsoft/vscode/blob/cd54c0e35db8f9750521a532f6c670ae7766934b/GITHUB_IS_EVIL.md
  - https://github.com/github/training-kit/blob/7fdaaf1b4deed2689669e16959625c9be9485ace/GITHUB_IS_EVIL.md
  - https://github.com/microsoft/TypeScript/blob/a8fcd50d4ccff302b8175275230b05b252d3a1b4/GITHUB_IS_EVIL.md
- - https://github.com/microsoft/terminal/blob/9bd080ddbbfffd03925b9625ae534fe214283b11/GITHUB_IS_EVIL.md
- - https://github.com/github/VisualStudio/blob/adb9631620d67164c429cf59b023863c7b21b423/GITHUB_IS_EVIL.md
-
+ - https://github.com/microsoft/terminal/blob/337ad1bd5584f0729d98d5bbc54d3ecc4bfb5a80/GITHUB_IS_EVIL.md
+ - https://github.com/github/VisualStudio/blob/62c367d784e3780b88b5e78a58f971001667cc18/GITHUB_IS_EVIL.md
 
 ## Better alternatives
 
